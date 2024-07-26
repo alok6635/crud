@@ -1,0 +1,11 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+
+/* global css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li a{
+    list-style: none;
+}
